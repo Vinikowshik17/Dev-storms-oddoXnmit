@@ -18,3 +18,14 @@ Built with React, TypeScript, and Tailwind CSS.
 1. Clone the repo:
    ```bash
    git clone https://github.com/Vinikowshik17/Dev-storms-oddoXnmit.git
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+| Name           | Contribution                                       | Tech / Tools Used              |
+| -------------- | -------------------------------------------------- | ------------------------------ |
+| Vini Kowshik   | Dashboard, Home Page, Add to Cart, Payments        | React, TypeScript, Context API |
+| Sushmitha      | Authentication, Login Page, User Management        | React, TypeScript, Context API |
+| Vismay         | UI/UX Design, Styling, Responsive Layouts          | Tailwind CSS, Figma (if used)  |
+| Bandi Akshitha | Product Listing, Product Detail, Edit/Add Products | React, TypeScript, Context API |
