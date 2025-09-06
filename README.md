@@ -27,5 +27,5 @@ Built with React, TypeScript, and Tailwind CSS.
 | -------------- | -------------------------------------------------- | ------------------------------ |
 | Vini Kowshik   | Dashboard, Home Page, Add to Cart, Payments        | React, TypeScript, Context API |
 | Sushmitha      | Authentication, Login Page, User Management        | React, TypeScript, Context API |
-| Vismay         | UI/UX Design, Styling, Responsive Layouts          | Tailwind CSS, Figma (if used)  |
+| Vismay         | UI/UX Design, Styling, Responsive Layouts          | Tailwind CSS, Figma   |
 | Bandi Akshitha | Product Listing, Product Detail, Edit/Add Products | React, TypeScript, Context API |
